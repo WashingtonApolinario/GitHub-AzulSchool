@@ -2,6 +2,9 @@
 **Proyecto Git parea azulschool texto en negritas**
 
 
+Este proyecto es con el fin de que los estudiantes de **Azul School**
+practiquen con Git y Github
+> esto es una cita
 
 ###Listas si enumearar
 [//]:# (Listas enumeradas)
